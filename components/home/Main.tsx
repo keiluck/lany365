@@ -1,3 +1,3 @@
 export default function Main(){
-    return <main>lany</main>
+    return <main>lanyddd</main>
 }
