@@ -1,3 +1,3 @@
 export default function Main(){
-    return <main>lany333ddhsfhs</main>
+    return <main>lan哦哦www哦y-main</main>
 }
